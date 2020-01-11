@@ -22,7 +22,7 @@ int main(){
             a=b;
             b=aux;
         }
-        printf("\n\tEl m%cximo com%cn divisor es %d\n\n",160,163,Euclides(a,b));
+        printf("\n\tEl m%cximo com%cn divisor es %d",160,163,Euclides(a,b));
         printf("\n\n\t%cRepetir?",168);
         printf("\n\t-->(s/n) ");
             fflush(stdin);
